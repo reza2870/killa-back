@@ -1,0 +1,11 @@
+Error: Test
+    at file:///Users/svenmagnus/Work/Bridge/bridge.killabears.com/private/processes/src/processes/state-checker/state-checker.js:34:10
+    at StateChecker.tryWithLogging (file:///Users/svenmagnus/Work/Bridge/bridge.killabears.com/private/processes/src/processes/state-checker/state-checker.js:25:10)
+    at StateChecker.update (file:///Users/svenmagnus/Work/Bridge/bridge.killabears.com/private/processes/src/processes/state-checker/state-checker.js:33:14)
+    at file:///Users/svenmagnus/Work/Bridge/bridge.killabears.com/private/processes/src/processes/state-checker/state-checker.js:13:23
+    at StateChecker.run (file:///Users/svenmagnus/Work/Bridge/bridge.killabears.com/private/processes/src/processes/state-checker/state-checker.js:17:16)
+    at new StateChecker (file:///Users/svenmagnus/Work/Bridge/bridge.killabears.com/private/processes/src/processes/state-checker/state-checker.js:13:8)
+    at file:///Users/svenmagnus/Work/Bridge/bridge.killabears.com/private/processes/entry-state-checker.js:4:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:218:25)
+    at async ModuleLoader.import (node:internal/modules/esm/loader:323:24)
+    at async loadESM (node:internal/process/esm_loader:28:7)
